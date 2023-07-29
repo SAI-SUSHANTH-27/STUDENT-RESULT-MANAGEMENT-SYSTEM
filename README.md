@@ -12,6 +12,7 @@ OBJECTIVE:
 •	Assign the marks to each student for the specific course.
 •	Access to view results.
 •	Logout and exit from the application.
+
 Technology:
 •	Python
 •	Python-Tkinters
